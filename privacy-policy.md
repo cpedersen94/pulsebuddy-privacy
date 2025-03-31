@@ -1,3 +1,6 @@
+<p>If you need help or support, please contact us at <strong>casper@cpedersen.info</strong></p>
+
+
 **Privacy Policy for PulseBuddy**
 
 Effective Date: 31-03-2025
